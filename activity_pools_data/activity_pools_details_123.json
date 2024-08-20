@@ -1,0 +1,148 @@
+{
+    "data": {
+        "activity_per_day": [
+          {
+            "date": "01/07/2024",
+            "type": "all_succed"
+          },
+          {
+            "date": "02/07/2024",
+            "type": "cheat"
+          },
+          {
+            "date": "03/07/2024",
+            "type": "skipped"
+          },
+          {
+            "date": "04/07/2024",
+            "type": "face_scan"
+          },
+          {
+            "date": "05/07/2024",
+            "type": "device_data"
+          },
+          {
+            "date": "06/07/2024",
+            "type": "all_succed"
+          },
+          {
+            "date": "07/07/2024",
+            "type": "all_succed"
+          },
+          {
+            "date": "08/07/2024",
+            "type": "all_succed"
+          },
+          {
+            "date": "09/07/2024",
+            "type": "all_succed"
+          },
+          {
+            "date": "10/07/2024",
+            "type": "all_succed"
+          },
+          {
+            "date": "11/07/2024",
+            "type": "face_scan"
+          },
+          {
+            "date": "12/07/2024",
+            "type": "cheat"
+          },
+          {
+            "date": "13/07/2024",
+            "type": "cheat"
+          },
+          {
+            "date": "14/07/2024",
+            "type": "skipped"
+          }
+        ],
+        "cheat_days_used": 2,
+        "headline": "Only 1 cheat moment left! Keep the fire burning🔥",
+        "graph": {
+          "data_name": "Respiratory",
+          "last_updated": "Today 10am",
+          "weeks": [
+            {
+              "0": [
+                {
+                  "tag": "M",
+                  "value": 18,
+                  "date": "01/07/2024"
+                },
+                {
+                  "tag": "T",
+                  "value": 19,
+                  "date": "02/07/2024"
+                },
+                {
+                  "tag": "W",
+                  "value": 20,
+                  "date": "03/07/2024"
+                },
+                {
+                  "tag": "T",
+                  "value": 21,
+                  "date": "04/07/2024"
+                },
+                {
+                  "tag": "F",
+                  "value": 22,
+                  "date": "05/07/2024"
+                },
+                {
+                  "tag": "S",
+                  "value": 23,
+                  "date": "06/07/2024"
+                },
+                {
+                  "tag": "S",
+                  "value": 24,
+                  "date": "07/07/2024"
+                }
+              ]
+            },
+            {
+              "1": [
+                {
+                  "tag": "M",
+                  "value": 4,
+                  "date": "08/07/2024"
+                },
+                {
+                  "tag": "T",
+                  "value": 13,
+                  "date": "09/07/2024"
+                },
+                {
+                  "tag": "W",
+                  "value": 17,
+                  "date": "10/07/2024"
+                },
+                {
+                  "tag": "T",
+                  "value": 8,
+                  "date": "11/07/2024"
+                },
+                {
+                  "tag": "F",
+                  "value": 21,
+                  "date": "12/07/2024"
+                },
+                {
+                  "tag": "S",
+                  "value": 26,
+                  "date": "13/07/2024"
+                },
+                {
+                  "tag": "S",
+                  "value": 30,
+                  "date": "14/07/2024"
+                }
+              ]
+            }
+          ]
+        }
+      }
+}

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "123",
+    "status": "Not joined",
+    "mainColor": "#D8BAFF",
+    "secondaryColor": "#3B136E",
+    "backgroundImage": "https://i.imgur.com/L3NjA5y.png",
+    "iconImage": "https://i.imgur.com/5syJxh8.png",
+    "authorUserId": "user123",
+    "activityPoolSponsorId": "sponsor456",
+    "activityPoolTitle": "Respiratory Breathing Challenge",
+    "activityPoolDescription": "Unlock the power of mindful breathing. Join our challenge to improve your breathing efficiency and overall well-being.",
+    "activityPoolInstructions": "Participate in the daily breathing exercises to track and improve your resonant breathing score.",
+    "currencyId": 1,
+    "entryFee": 10,
+    "publicVisibleStartDateTime": "2024-10-05T13:50:45.224Z",
+    "entriesOpenStartDateTime": "2024-10-05T13:50:45.224Z",
+    "startDateTime": "2024-10-05T13:50:45.224Z",
+    "endDateTime": "2024-10-12T13:50:45.224Z",
+    "minimumAge": 18,
+    "minParticipants": 5,
+    "participants": 60,
+    "cheatDays": 3,
+    "countryCodeRestriction": "US",
+    "townCodeRestriction": "NYC",
+    "sexRestriction": "None",
+    "genderRestriction": "None",
+    "maxParticipants": 100,
+    "nftEntryTokenCurrencyId": "ETH",
+    "goalType": "Breathing",
+    "activityPoolGoalDescription": "Improve your respiratory breathing score by participating in daily exercises.",
+    "activityPoolGoal": 50,
+    "locationId": 1,
+    "activityPoolStatus": "OnGoing",
+    "activityPoolId": "pool789",
+    "userName": "JohnDoe",
+    "activityPoolSponsorName": "Nike",
+    "entryFeeCurrencyName": "EUR",
+    "nftPassportName": "BreathPass",
+    "rewards": [
+      {
+        "rewardType": "Prize Pool",
+        "amount": 5000,
+        "currency": "EUR",
+        "description": "Total amount in Prize Pool"
+      },
+      {
+        "rewardType": "Bonus Prize",
+        "amount": 600,
+        "currency": "EUR",
+        "description": "Extra bonus prize provided by Nike"
+      },
+      {
+        "rewardType": "Giftcard",
+        "amount": 60,
+        "currency": "EUR",
+        "description": "Complete the challenge and receive the Giftcard"
+      },
+      {
+        "rewardType": "Discount",
+        "amount": 10,
+        "currency": "Percent",
+        "description": "Complete the challenge and receive a discount code"
+      }
+    ]
+  },
+  {
+    "id": "124",
+    "status": "Joined",
+    "mainColor": "#B8FFA6",
+    "secondaryColor": "#25330F",
+    "backgroundImage": "https://i.imgur.com/8XwWi9B.png",
+    "iconImage": "https://i.imgur.com/57arhPH.png",
+    "authorUserId": "user123",
+    "activityPoolSponsorId": "sponsor456",
+    "activityPoolTitle": "Bever Outdoor Adventure",
+    "activityPoolDescription": "Unlock the adventurer within, one step at a time.",
+    "activityPoolInstructions": "Join the adventure by walking 10,000 steps daily. Track your progress and enjoy the great outdoors.",
+    "currencyId": 1,
+    "entryFee": 10,
+    "publicVisibleStartDateTime": "2024-10-05T13:50:45.224Z",
+    "entriesOpenStartDateTime": "2024-10-05T13:50:45.224Z",
+    "startDateTime": "2024-10-05T13:50:45.224Z",
+    "endDateTime": "2024-10-12T13:50:45.224Z",
+    "minimumAge": 18,
+    "minParticipants": 5,
+    "participants": 60,
+    "cheatDays": 3,
+    "countryCodeRestriction": "US",
+    "townCodeRestriction": "NYC",
+    "sexRestriction": "None",
+    "genderRestriction": "None",
+    "maxParticipants": 100,
+    "nftEntryTokenCurrencyId": "ETH",
+    "goalType": "Steps",
+    "activityPoolGoalDescription": "Walk 10,000 steps daily to stay healthy and active.",
+    "activityPoolGoal": 70000,
+    "locationId": 1,
+    "activityPoolStatus": "OnGoing",
+    "activityPoolId": "pool789",
+    "userName": "JohnDoe",
+    "activityPoolSponsorName": "Bever",
+    "entryFeeCurrencyName": "EUR",
+    "nftPassportName": "StepPass",
+    "rewards": [
+      {
+        "rewardType": "Prize Pool",
+        "amount": 5000,
+        "currency": "EUR",
+        "description": "Total amount in Prize Pool"
+      },
+      {
+        "rewardType": "Bonus Prize",
+        "amount": 400,
+        "currency": "EUR",
+        "description": "Extra bonus prize provided by Bever Sports"
+      },
+      {
+        "rewardType": "Giftcard",
+        "amount": 20,
+        "currency": "EUR",
+        "description": "Complete the challenge and receive the Giftcard"
+      },
+      {
+        "rewardType": "Discount",
+        "amount": 10,
+        "currency": "Percent",
+        "description": "Complete the challenge and receive a discount code"
+      }
+    ]
+  },
+  {
+    "id": "125",
+    "status": "Joined",
+    "mainColor": "#cecece",
+    "secondaryColor": "#000000",
+    "backgroundImage": "https://static.nike.com/a/images/f_auto,cs_srgb/w_960,c_limit/d40d1224-9aaa-4d32-ac6a-ebc29e1ac0bb/nike-run-club-app.jpg",
+    "iconImage": "https://i.imgur.com/57arhPH.png",
+    "authorUserId": "user123",
+    "activityPoolSponsorId": "sponsor456",
+    "activityPoolTitle": "Nike Running",
+    "activityPoolDescription": "Unlock the adventurer within, one step at a time.",
+    "activityPoolInstructions": "Join the adventure by walking 10,000 steps daily. Track your progress and enjoy the great outdoors.",
+    "currencyId": 1,
+    "entryFee": 10,
+    "publicVisibleStartDateTime": "2024-07-05T13:50:45.224Z",
+    "entriesOpenStartDateTime": "2024-07-05T13:50:45.224Z",
+    "startDateTime": "2024-07-05T13:50:45.224Z",
+    "endDateTime": "2024-07-12T13:50:45.224Z",
+    "minimumAge": 18,
+    "minParticipants": 5,
+    "participants": 60,
+    "cheatDays": 3,
+    "countryCodeRestriction": "US",
+    "townCodeRestriction": "NYC",
+    "sexRestriction": "None",
+    "genderRestriction": "None",
+    "maxParticipants": 100,
+    "nftEntryTokenCurrencyId": "ETH",
+    "goalType": "Steps",
+    "activityPoolGoalDescription": "Walk 10,000 steps daily to stay healthy and active.",
+    "activityPoolGoal": 70000,
+    "locationId": 1,
+    "activityPoolStatus": "OnGoing",
+    "activityPoolId": "pool789",
+    "userName": "JohnDoe",
+    "activityPoolSponsorName": "Bever",
+    "entryFeeCurrencyName": "EUR",
+    "nftPassportName": "StepPass",
+    "rewards": [
+      {
+        "rewardType": "Prize Pool",
+        "amount": 5000,
+        "currency": "EUR",
+        "description": "Total amount in Prize Pool"
+      },
+      {
+        "rewardType": "Bonus Prize",
+        "amount": 400,
+        "currency": "EUR",
+        "description": "Extra bonus prize provided by Bever Sports"
+      },
+      {
+        "rewardType": "Giftcard",
+        "amount": 20,
+        "currency": "EUR",
+        "description": "Complete the challenge and receive the Giftcard"
+      },
+      {
+        "rewardType": "Discount",
+        "amount": 10,
+        "currency": "Percent",
+        "description": "Complete the challenge and receive a discount code"
+      }
+    ]
+  }
+]
