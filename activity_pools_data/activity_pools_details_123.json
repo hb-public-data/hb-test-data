@@ -1,213 +1,211 @@
 {
+  "id": "123",
+  "status": "Not joined",
+  "mainColor": "#D8BAFF",
+  "secondaryColor": "#3B136E",
+  "backgroundImage": "https://i.imgur.com/L3NjA5y.png",
+  "iconImage": "https://i.imgur.com/5syJxh8.png",
+  "authorUserId": "user123",
+  "activityPoolSponsorId": "sponsor456",
+  "activityPoolTitle": "Respiratory Breathing Challenge",
+  "activityPoolDescription": "Unlock the power of mindful breathing. Join our challenge to improve your breathing efficiency and overall well-being.",
+  "activityPoolInstructions": "Participate in the daily breathing exercises to track and improve your resonant breathing score.",
+  "currencyId": 1,
+  "entryFee": 10,
+  "publicVisibleStartDateTime": "2024-10-05T13:50:45.224Z",
+  "entriesOpenStartDateTime": "2024-10-05T13:50:45.224Z",
+  "startDateTime": "2024-10-05T13:50:45.224Z",
+  "endDateTime": "2024-10-12T13:50:45.224Z",
+  "minimumAge": 18,
+  "minParticipants": 5,
+  "participants": 60,
+  "cheatDays": 3,
+  "countryCodeRestriction": "US",
+  "townCodeRestriction": "NYC",
+  "sexRestriction": "None",
+  "genderRestriction": "None",
+  "maxParticipants": 100,
+  "nftEntryTokenCurrencyId": "ETH",
+  "goalType": "Breathing",
+  "activityPoolGoalDescription": "Improve your respiratory breathing score by participating in daily exercises.",
+  "activityPoolGoal": 50,
+  "locationId": 1,
+  "activityPoolStatus": "OnGoing",
+  "activityPoolId": "pool789",
+  "userName": "JohnDoe",
+  "activityPoolSponsorName": "Nike",
+  "entryFeeCurrencyName": "EUR",
+  "nftPassportName": "BreathPass",
+  "rewards": [
+    {
+      "rewardType": "Prize Pool",
+      "amount": 5000,
+      "currency": "EUR",
+      "description": "Total amount in Prize Pool"
+    },
+    {
+      "rewardType": "Bonus Prize",
+      "amount": 600,
+      "currency": "EUR",
+      "description": "Extra bonus prize provided by Nike"
+    },
+    {
+      "rewardType": "Giftcard",
+      "amount": 60,
+      "currency": "EUR",
+      "description": "Complete the challenge and receive the Giftcard"
+    },
+    {
+      "rewardType": "Discount",
+      "amount": 10,
+      "currency": "Percent",
+      "description": "Complete the challenge and receive a discount code"
+    }
+  ],
   "data": {
-    "id": "123",
-    "status": "Not joined",
-    "mainColor": "#D8BAFF",
-    "secondaryColor": "#3B136E",
-    "backgroundImage": "https://i.imgur.com/L3NjA5y.png",
-    "iconImage": "https://i.imgur.com/5syJxh8.png",
-    "authorUserId": "user123",
-    "activityPoolSponsorId": "sponsor456",
-    "activityPoolTitle": "Respiratory Breathing Challenge",
-    "activityPoolDescription": "Unlock the power of mindful breathing. Join our challenge to improve your breathing efficiency and overall well-being.",
-    "activityPoolInstructions": "Participate in the daily breathing exercises to track and improve your resonant breathing score.",
-    "currencyId": 1,
-    "entryFee": 10,
-    "publicVisibleStartDateTime": "2024-10-05T13:50:45.224Z",
-    "entriesOpenStartDateTime": "2024-10-05T13:50:45.224Z",
-    "startDateTime": "2024-10-05T13:50:45.224Z",
-    "endDateTime": "2024-10-12T13:50:45.224Z",
-    "minimumAge": 18,
-    "minParticipants": 5,
-    "participants": 60,
-    "cheatDays": 3,
-    "countryCodeRestriction": "US",
-    "townCodeRestriction": "NYC",
-    "sexRestriction": "None",
-    "genderRestriction": "None",
-    "maxParticipants": 100,
-    "nftEntryTokenCurrencyId": "ETH",
-    "goalType": "Breathing",
-    "activityPoolGoalDescription": "Improve your respiratory breathing score by participating in daily exercises.",
-    "activityPoolGoal": 50,
-    "locationId": 1,
-    "activityPoolStatus": "OnGoing",
-    "activityPoolId": "pool789",
-    "userName": "JohnDoe",
-    "activityPoolSponsorName": "Nike",
-    "entryFeeCurrencyName": "EUR",
-    "nftPassportName": "BreathPass",
-    "rewards": [
+    "activity_per_day": [
       {
-        "rewardType": "Prize Pool",
-        "amount": 5000,
-        "currency": "EUR",
-        "description": "Total amount in Prize Pool"
+        "date": "01/07/2024",
+        "type": "all_succed"
       },
       {
-        "rewardType": "Bonus Prize",
-        "amount": 600,
-        "currency": "EUR",
-        "description": "Extra bonus prize provided by Nike"
+        "date": "02/07/2024",
+        "type": "cheat"
       },
       {
-        "rewardType": "Giftcard",
-        "amount": 60,
-        "currency": "EUR",
-        "description": "Complete the challenge and receive the Giftcard"
+        "date": "03/07/2024",
+        "type": "skipped"
       },
       {
-        "rewardType": "Discount",
-        "amount": 10,
-        "currency": "Percent",
-        "description": "Complete the challenge and receive a discount code"
+        "date": "04/07/2024",
+        "type": "face_scan"
+      },
+      {
+        "date": "05/07/2024",
+        "type": "device_data"
+      },
+      {
+        "date": "06/07/2024",
+        "type": "all_succed"
+      },
+      {
+        "date": "07/07/2024",
+        "type": "all_succed"
+      },
+      {
+        "date": "08/07/2024",
+        "type": "all_succed"
+      },
+      {
+        "date": "09/07/2024",
+        "type": "all_succed"
+      },
+      {
+        "date": "10/07/2024",
+        "type": "all_succed"
+      },
+      {
+        "date": "11/07/2024",
+        "type": "face_scan"
+      },
+      {
+        "date": "12/07/2024",
+        "type": "cheat"
+      },
+      {
+        "date": "13/07/2024",
+        "type": "cheat"
+      },
+      {
+        "date": "14/07/2024",
+        "type": "skipped"
       }
     ],
-    "data": {
-      "activity_per_day": [
+    "cheat_days_used": 2,
+    "headline": "Only 1 cheat moment left! Keep the fire burning🔥",
+    "graph": {
+      "data_name": "Respiratory",
+      "last_updated": "Today 10am",
+      "weeks": [
         {
-          "date": "01/07/2024",
-          "type": "all_succed"
+          "0": [
+            {
+              "tag": "M",
+              "value": 18,
+              "date": "01/07/2024"
+            },
+            {
+              "tag": "T",
+              "value": 19,
+              "date": "02/07/2024"
+            },
+            {
+              "tag": "W",
+              "value": 20,
+              "date": "03/07/2024"
+            },
+            {
+              "tag": "T",
+              "value": 21,
+              "date": "04/07/2024"
+            },
+            {
+              "tag": "F",
+              "value": 22,
+              "date": "05/07/2024"
+            },
+            {
+              "tag": "S",
+              "value": 23,
+              "date": "06/07/2024"
+            },
+            {
+              "tag": "S",
+              "value": 24,
+              "date": "07/07/2024"
+            }
+          ]
         },
         {
-          "date": "02/07/2024",
-          "type": "cheat"
-        },
-        {
-          "date": "03/07/2024",
-          "type": "skipped"
-        },
-        {
-          "date": "04/07/2024",
-          "type": "face_scan"
-        },
-        {
-          "date": "05/07/2024",
-          "type": "device_data"
-        },
-        {
-          "date": "06/07/2024",
-          "type": "all_succed"
-        },
-        {
-          "date": "07/07/2024",
-          "type": "all_succed"
-        },
-        {
-          "date": "08/07/2024",
-          "type": "all_succed"
-        },
-        {
-          "date": "09/07/2024",
-          "type": "all_succed"
-        },
-        {
-          "date": "10/07/2024",
-          "type": "all_succed"
-        },
-        {
-          "date": "11/07/2024",
-          "type": "face_scan"
-        },
-        {
-          "date": "12/07/2024",
-          "type": "cheat"
-        },
-        {
-          "date": "13/07/2024",
-          "type": "cheat"
-        },
-        {
-          "date": "14/07/2024",
-          "type": "skipped"
+          "1": [
+            {
+              "tag": "M",
+              "value": 4,
+              "date": "08/07/2024"
+            },
+            {
+              "tag": "T",
+              "value": 13,
+              "date": "09/07/2024"
+            },
+            {
+              "tag": "W",
+              "value": 17,
+              "date": "10/07/2024"
+            },
+            {
+              "tag": "T",
+              "value": 8,
+              "date": "11/07/2024"
+            },
+            {
+              "tag": "F",
+              "value": 21,
+              "date": "12/07/2024"
+            },
+            {
+              "tag": "S",
+              "value": 26,
+              "date": "13/07/2024"
+            },
+            {
+              "tag": "S",
+              "value": 30,
+              "date": "14/07/2024"
+            }
+          ]
         }
-      ],
-      "cheat_days_used": 2,
-      "headline": "Only 1 cheat moment left! Keep the fire burning🔥",
-      "graph": {
-        "data_name": "Respiratory",
-        "last_updated": "Today 10am",
-        "weeks": [
-          {
-            "0": [
-              {
-                "tag": "M",
-                "value": 18,
-                "date": "01/07/2024"
-              },
-              {
-                "tag": "T",
-                "value": 19,
-                "date": "02/07/2024"
-              },
-              {
-                "tag": "W",
-                "value": 20,
-                "date": "03/07/2024"
-              },
-              {
-                "tag": "T",
-                "value": 21,
-                "date": "04/07/2024"
-              },
-              {
-                "tag": "F",
-                "value": 22,
-                "date": "05/07/2024"
-              },
-              {
-                "tag": "S",
-                "value": 23,
-                "date": "06/07/2024"
-              },
-              {
-                "tag": "S",
-                "value": 24,
-                "date": "07/07/2024"
-              }
-            ]
-          },
-          {
-            "1": [
-              {
-                "tag": "M",
-                "value": 4,
-                "date": "08/07/2024"
-              },
-              {
-                "tag": "T",
-                "value": 13,
-                "date": "09/07/2024"
-              },
-              {
-                "tag": "W",
-                "value": 17,
-                "date": "10/07/2024"
-              },
-              {
-                "tag": "T",
-                "value": 8,
-                "date": "11/07/2024"
-              },
-              {
-                "tag": "F",
-                "value": 21,
-                "date": "12/07/2024"
-              },
-              {
-                "tag": "S",
-                "value": 26,
-                "date": "13/07/2024"
-              },
-              {
-                "tag": "S",
-                "value": 30,
-                "date": "14/07/2024"
-              }
-            ]
-          }
-        ]
-      }
+      ]
     }
   }
 }
