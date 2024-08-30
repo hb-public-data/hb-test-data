@@ -16,7 +16,7 @@
     "set": 92
   },
   "heartrate": {
-    "min": 40,
+    "min": 0,
     "max": 300,
     "set": 64
   },
