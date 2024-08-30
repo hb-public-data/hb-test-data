@@ -29,7 +29,7 @@
     "setText": "Medium"
   },
   "readiness": {
-    "min": 1,
+    "min": 10,
     "max": 10,
     "set": 7
   },
